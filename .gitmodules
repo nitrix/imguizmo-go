@@ -1,0 +1,6 @@
+[submodule "thirdparty/cimguizmo"]
+	path = thirdparty/cimguizmo
+	url = https://github.com/cimgui/cimguizmo
+[submodule "thirdparty/cimgui"]
+	path = thirdparty/cimgui
+	url = https://github.com/cimgui/cimgui
