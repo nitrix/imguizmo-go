@@ -12,7 +12,10 @@ You're expected to use my [imgui-go](https://github.com/nitrix/imgui-go) library
 
 ## Credits
 
-Credits goes to the original author of the [imguizmo](https://github.com/CedricGuillemet/ImGuizmo) library as well as [cimguizmo](https://github.com/cimgui/cimguizmo) that I'm re-using for the Cgo bindings.
+Other than my work in this repository, other credits rightfully goes to:
+
+* The original author of the [imguizmo](https://github.com/CedricGuillemet/ImGuizmo) library.
+* The maintainer of [cimguizmo](https://github.com/cimgui/cimguizmo) that I'm re-using for the Cgo bindings.
 
 ## License
 
