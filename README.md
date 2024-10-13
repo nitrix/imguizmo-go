@@ -8,7 +8,7 @@ A binding for imguizmo in Go.
 
 ## Compatibility
 
-You're expected to use my [glfw-go](https://github.com/nitrix/glfw-go) and [imgui-go](https://github.com/nitrix/imgui-go) libraries with this.
+You're expected to use my [imgui-go](https://github.com/nitrix/imgui-go) library with this.
 
 ## Credits
 
