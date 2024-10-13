@@ -8,6 +8,7 @@ import (
 
 func main() {
 	copyFile("thirdparty/cimguizmo/cimguizmo.h", "dist/include/cimguizmo.h")
+	copyFile("thirdparty/cimgui/cimgui.h", "dist/include/cimgui.h")
 }
 
 func copyFile(src, dst string) error {
