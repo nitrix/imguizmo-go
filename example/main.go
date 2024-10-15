@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"runtime"
 
 	"github.com/go-gl/gl/v3.3-core/gl"
 	"github.com/go-gl/mathgl/mgl32"
@@ -12,10 +11,6 @@ import (
 	bopengl3 "github.com/nitrix/imgui-go/backends/opengl3"
 	"github.com/nitrix/imguizmo-go"
 )
-
-func init() {
-	runtime.LockOSThread()
-}
 
 func main() {
 	err := glfw.Init()
