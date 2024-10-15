@@ -6,6 +6,10 @@ A binding for imguizmo in Go.
 
 ![example.png](example.png)
 
+Try the example with `go run github.com/nitrix/imguizmo-go/example@latest`.
+
+The sources for it are located here [example/example.go](example/example.go).
+
 ## Compatibility
 
 You're expected to use my [imgui-go](https://github.com/nitrix/imgui-go) library with this.
