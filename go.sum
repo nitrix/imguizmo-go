@@ -6,10 +6,14 @@ github.com/nitrix/glfw-go v0.0.0-20241013032952-49c68a1ac4a4 h1:7a3h88ivLJiSGwda
 github.com/nitrix/glfw-go v0.0.0-20241013032952-49c68a1ac4a4/go.mod h1:C3O0FM3UuTLT620w4khrkJiIc2gr/IY6EwAXCNOFWFg=
 github.com/nitrix/glfw-go v0.0.0-20241029004842-563277b904ed h1:zP+uetFfdgiPj7EigNo+L8zmeBgbgeD2Vsm54+gOo8o=
 github.com/nitrix/glfw-go v0.0.0-20241029004842-563277b904ed/go.mod h1:C3O0FM3UuTLT620w4khrkJiIc2gr/IY6EwAXCNOFWFg=
+github.com/nitrix/glfw-go v0.0.0-20241029005241-d49bbcffe0e5 h1:WcSc+kevohcxa6Q8fZRx8Xk8Pb6dn2HhzxdMEQcKY7Q=
+github.com/nitrix/glfw-go v0.0.0-20241029005241-d49bbcffe0e5/go.mod h1:C3O0FM3UuTLT620w4khrkJiIc2gr/IY6EwAXCNOFWFg=
 github.com/nitrix/imgui-go v0.0.0-20241013032544-478d8a60822a h1:EvBQuqN2KViM+HmeWnmfEgQ1+SMWjr46N6hmdtBR2ck=
 github.com/nitrix/imgui-go v0.0.0-20241013032544-478d8a60822a/go.mod h1:q1pTASskRKjk9F3lAjvA2a7LEjAULJ94l8TXrJSWLj4=
 github.com/nitrix/imgui-go v0.0.0-20241021175831-9a2766679180 h1:c3z63itnmrWzVDJJHVULzXoLv+Fhq2axvXacBJWwmm4=
 github.com/nitrix/imgui-go v0.0.0-20241021175831-9a2766679180/go.mod h1:hCT4CgYmYh7JBv1J3Z0/MVxLw5FprM8DZR1jrkYuL8U=
+github.com/nitrix/imgui-go v0.0.0-20241029012356-adb6f1ff885c h1:ACxO4gPqAPKWVt7nyGg3rgg95db71XROGKoaBZVNCHQ=
+github.com/nitrix/imgui-go v0.0.0-20241029012356-adb6f1ff885c/go.mod h1:4lwjcDU3U23ze1SbNunXE+k+LsqOJRRpmy4ZVU3hFdQ=
 golang.org/x/image v0.0.0-20190321063152-3fc05d484e9f/go.mod h1:kZ7UVZpmo3dzQBMxlp+ypCbDeSB+sBbTgSJuh5dn5js=
 golang.org/x/image v0.21.0 h1:c5qV36ajHpdj4Qi0GnE0jUc/yuo33OLFaa0d+crTD5s=
 golang.org/x/image v0.21.0/go.mod h1:vUbsLavqK/W303ZroQQVKQ+Af3Yl6Uz1Ppu5J/cLz78=
