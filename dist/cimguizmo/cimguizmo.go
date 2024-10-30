@@ -1,0 +1,3 @@
+package cimguizmo
+
+import "C"

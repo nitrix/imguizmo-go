@@ -15,6 +15,7 @@ import (
 
 	"github.com/go-gl/mathgl/mgl32"
 	"github.com/nitrix/imgui-go"
+	_ "github.com/nitrix/imguizmo-go/dist/cimguizmo"
 )
 
 // Operation enums.
