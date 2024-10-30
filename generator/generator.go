@@ -13,7 +13,6 @@ func main() {
 	copyFile("thirdparty/cimguizmo/cimguizmo.cpp", "dist/cimguizmo/cimguizmo.cpp")
 	copyFile("thirdparty/cimguizmo/cimguizmo.h", "dist/cimguizmo/cimguizmo.h")
 
-	copyFile("thirdparty/cimgui/cimgui.cpp", "dist/cimgui/cimgui.cpp")
 	copyFile("thirdparty/cimgui/cimgui.h", "dist/cimgui/cimgui.h")
 
 	copyFile("thirdparty/imgui/imconfig.h", "dist/imgui/imconfig.h")
