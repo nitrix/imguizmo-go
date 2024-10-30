@@ -2,13 +2,9 @@ package imguizmo
 
 //go:generate go run ./generator
 
-// #cgo windows LDFLAGS: -Ldist/windows
-// #cgo linux LDFLAGS: -Ldist/linux
-// #cgo darwin,amd64 LDFLAGS: -Ldist/macos/amd64
-// #cgo darwin,arm64 LDFLAGS: -Ldist/macos/arm64
-// #cgo LDFLAGS: -lcimguizmo -limguizmo
+// #cgo CFLAGS: -Idist/cimgui
 // #define CIMGUI_DEFINE_ENUMS_AND_STRUCTS 1
-// #include "dist/include/cimguizmo.h"
+// #include "dist/cimguizmo/cimguizmo.h"
 import "C"
 import (
 	"unsafe"

@@ -7,14 +7,18 @@ import (
 )
 
 func main() {
-	copyFile("thirdparty/cimguizmo/cimguizmo.h", "dist/include/cimguizmo.h")
-	copyFile("thirdparty/cimgui/cimgui.h", "dist/include/cimgui.h")
-
-	copyFile("thirdparty/cimguizmo/ImGuizmo/ImGuizmo.cpp", "dist/imguizmo/ImGuizmo.cpp")
-	copyFile("thirdparty/cimguizmo/ImGuizmo/ImGuizmo.h", "dist/imguizmo/ImGuizmo.h")
+	copyFile("thirdparty/cimguizmo/ImGuizmo/ImGuizmo.cpp", "dist/ImGuizmo/ImGuizmo.cpp")
+	copyFile("thirdparty/cimguizmo/ImGuizmo/ImGuizmo.h", "dist/ImGuizmo/ImGuizmo.h")
 
 	copyFile("thirdparty/cimguizmo/cimguizmo.cpp", "dist/cimguizmo/cimguizmo.cpp")
 	copyFile("thirdparty/cimguizmo/cimguizmo.h", "dist/cimguizmo/cimguizmo.h")
+
+	copyFile("thirdparty/cimgui/cimgui.cpp", "dist/cimgui/cimgui.cpp")
+	copyFile("thirdparty/cimgui/cimgui.h", "dist/cimgui/cimgui.h")
+
+	copyFile("thirdparty/imgui/imconfig.h", "dist/imgui/imconfig.h")
+	copyFile("thirdparty/imgui/imgui.h", "dist/imgui/imgui.h")
+	copyFile("thirdparty/imgui/imgui_internal.h", "dist/imgui/imgui_internal.h")
 }
 
 func copyFile(src, dst string) {
