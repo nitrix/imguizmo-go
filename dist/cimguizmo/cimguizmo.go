@@ -1,5 +1,5 @@
 package cimguizmo
 
-// #cgo CXXFLAGS: -I../imgui -I.. -I../cimgui -Wno-deprecated-declarations
+// #cgo CXXFLAGS: -I../imgui -I../cimgui -Wno-deprecated-declarations -Wno-nonportable-include-path
 import "C"
-import _ "github.com/nitrix/imguizmo-go/dist/ImGuizmo"
+import _ "github.com/nitrix/imguizmo-go/dist/imguizmo"
