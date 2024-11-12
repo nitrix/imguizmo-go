@@ -1,6 +1,6 @@
 # imguizmo-go
 
-A binding for imguizmo in Go.
+A binding library of imguizmo for Go.
 
 ## Example
 
